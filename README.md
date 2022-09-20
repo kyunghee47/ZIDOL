@@ -46,6 +46,14 @@
  
 <img width="253" alt="스크린샷 2022-06-13 오전 10 16 46" src="https://user-images.githubusercontent.com/88222461/173262983-b4f07810-2649-4241-bc46-969fd91f2154.png">
 <br>
+<img width="400" height="400" alt="1" src="https://user-images.githubusercontent.com/96763714/191238476-75c8fde6-cc1d-4062-9e33-02649e19bce8.PNG">
+<img width="400" height="400"" alt="3" src="https://user-images.githubusercontent.com/96763714/191238497-60f86f62-3be7-49bb-ba0f-7a6e111c1a87.PNG">
+<img width="400" height="400" alt="4" src="https://user-images.githubusercontent.com/96763714/191238501-45308b91-ae5b-436f-be03-cf73f1bc34b9.PNG">
+<img width="400" height="400" alt="5" src="https://user-images.githubusercontent.com/96763714/191238504-93e78064-9eab-4e52-89e3-2d06edfaaf7e.PNG">
+<img width="400" height="400" alt="6" src="https://user-images.githubusercontent.com/96763714/191238508-203e9624-17be-4870-bb5f-6c3cce6500a4.PNG">
+<img width="400" height="400" alt="7" src="https://user-images.githubusercontent.com/96763714/191238509-15cd93d4-4119-4b76-824c-3fe580da3353.PNG">
+<img width="400" height="400" alt="8" src="https://user-images.githubusercontent.com/96763714/191238513-8550cea5-5478-438f-b20d-456ee081bbe7.PNG">
+<img width="400" height="400" alt="2" src="https://user-images.githubusercontent.com/96763714/191238515-300138cb-709c-491d-af37-8e23d0e4c4f9.PNG">
 
 ## 2. 주요 기능
 
